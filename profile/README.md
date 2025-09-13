@@ -3,8 +3,9 @@
 🚀 **PentaDevIX** is a professional software development organization focused on delivering **modern, scalable, and secure solutions** for businesses and enterprises.  
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1wmiYhxm-ZIAhX8WIgrJmIzLUVDQ7TElc/view?usp=drive_link" alt="PentaDevIX Banner" width="80%" />
+  <img src="./assets/PentaDevIX-Banner.png" alt="PentaDevIX Banner" width="80%" />
 </p>
+
 
 ---
 
